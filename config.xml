@@ -3,9 +3,9 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
     
-    <name>軟體名稱</name>
+    <name>OwO</name>
     <description>軟體描述</description>
-    <author href="作者網站" email="作者email">作者姓名</author>
+    <author href="作者網站" email="o168597236@gmail.com">翁詩婷</author>
     <!-- Configuration End -->
   
     <!--  allows access to any external resource. -->
