@@ -3,7 +3,7 @@
 <!-- Configuration Start: Please customize following configuration -->
 <widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="phonegap-web-template.pulipuli.info" version="1.0.0">
     
-    <name軟體名稱</name>
+    <name>軟體名稱</name>
     <description>軟體描述</description>
     <author href="作者網站" email="作者email">作者姓名</author>
     <!-- Configuration End -->
